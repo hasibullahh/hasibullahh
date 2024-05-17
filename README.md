@@ -1,7 +1,29 @@
-### Hi there 👋
+# Hi, I'm Hasibullah Hamidi!👋
 
-<!--
-**hasibullahh/hasibullahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer | Building creative solutions with code.
+
+## Skills & Experience
+
+* **Programming Languages:** HTML, CSS, JAVASCRIPT, C++, C#, JAVA, PYTHON, PHP
+* **Frameworks & Tools:** BOOTSTRAP, TAILWIND CSS, JQUERY, REACT, NEXT.JS, REDUX, ASP.NET, LARAVEL
+
+<!-- ## Projects
+
+* **[Project Name](link to repository):** [Short description of the project]
+* **[Project Name](link to repository):** [Short description of the project] 
+* ... (Add more projects if applicable)
+-->
+
+## Links
+
+* Website: www.electron-soft.net
+
+## Contact
+
+Feel free to reach out to me at hasibullahhmaidi@yahoo.com
+
+
+<!-- **hasibullahh/hasibullahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
