@@ -5,7 +5,7 @@ Software developer | Building creative solutions with code.
 ## Skills & Experience
 
 * **Programming Languages:** HTML, CSS, JAVASCRIPT, C++, C#, JAVA, PYTHON, PHP
-* **Frameworks & Tools:** BOOTSTRAP, TAILWIND CSS, JQUERY, REACT, NEXT.JS, REDUX, ASP.NET, LARAVEL
+* **Frameworks & Tools:** BOOTSTRAP, TAILWIND CSS, JQUERY, REACT, NEXT.JS, Express, Node.JS, REDUX, ASP.NET, LARAVEL
 
 <!-- ## Projects
 
@@ -20,7 +20,7 @@ Software developer | Building creative solutions with code.
 
 ## Contact
 
-Feel free to reach out to me at hasibullahhmaidi@yahoo.com
+Feel free to reach out to me at hasib@electron-soft.net or hasibullahhamidi@yahoo.com
 
 
 <!-- **hasibullahh/hasibullahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
