@@ -16,11 +16,11 @@ Software developer | Building creative solutions with code.
 
 ## Links
 
-* Website: www.electron-soft.net
+* Website: 
 
 ## Contact
 
-Feel free to reach out to me at hasib@electron-soft.net or hasibullahhamidi@yahoo.com
+Feel free to reach out to me at 
 
 
 <!-- **hasibullahh/hasibullahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
